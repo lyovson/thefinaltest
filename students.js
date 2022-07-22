@@ -5,7 +5,7 @@ export default [
     age: 16,
     adult: false,
     level: 7,
-    house: "Griffindor",
+    house: "Gryffindor",
     credits: 7,
   },
   {
@@ -14,7 +14,7 @@ export default [
     age: 17,
     adult: false,
     level: 6,
-    house: "Griffindor",
+    house: "Gryffindor",
     credits: 6,
   },
   {
@@ -23,7 +23,7 @@ export default [
     age: 16,
     adult: false,
     level: 9,
-    house: "Griffindor",
+    house: "Gryffindor",
     credits: 10,
   },
   {
